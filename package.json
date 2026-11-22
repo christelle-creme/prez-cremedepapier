@@ -1,0 +1,1 @@
+{"name":"creme-de-papier-presentations","private":true,"type":"module","scripts":{"build":"esbuild client.js --bundle --minify --format=esm --outfile=dist/app.js"},"dependencies":{"@tanstack/react-router":"1.131.35","react":"19.1.1","react-dom":"19.1.1"},"devDependencies":{"esbuild":"0.25.9"}}
